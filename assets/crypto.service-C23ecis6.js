@@ -1,0 +1,1 @@
+var e=class{static encode(e){let t=JSON.stringify(e,null,2);return btoa(unescape(encodeURIComponent(t)))}static decode(e){let t=decodeURIComponent(escape(atob(e)));return JSON.parse(t)}static isValid(e){try{return this.decode(e),!0}catch{return!1}}};export{e as CryptoService};

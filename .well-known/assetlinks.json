@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.salahsoft.debtmanager0",
+        "sha256_cert_fingerprints": ["76:5A:C1:9F:05:B9:4D:ED:75:D8:30:22:2A:95:55:37:27:F3:C7:6B:E7:D4:41:9C:57:59:61:5D:F0:9F:4F:3B"]
+    }
+}]
